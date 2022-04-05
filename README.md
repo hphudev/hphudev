@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <p>
   <a target="_blank" href="http://healthcare-uit.rf.gd/?i=1"><img src="https://img.shields.io/badge/-Website_Frist-08c271?style=flat&logo=audacity&logoColor=white"/>   </a>
-  <a target="_blank" href="http://coffeeshop-management.rf.gd/coffeeshopmanagement/"><img src="https://img.shields.io/badge/-Stun_Store-111?style=flat&logo=itch.io&logoColor=white"/>
+  <a target="_blank" href="http://coffeeshop-management.rf.gd/coffeeshopmanagement/"><img src="https://img.shields.io/badge/-Coffee shop management-111?style=flat&logo=itch.io&logoColor=white"/>
 </p>
   
 [![-----------------------------------------------------](
