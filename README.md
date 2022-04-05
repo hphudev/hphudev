@@ -1,6 +1,6 @@
 ###  Hi , I'm Le Hoang Phu - A Web Developer and Mobile Developer
 
-<img style="width: 70vw" src="https://wallpaperaccess.com/full/39607.jpg"/>
+<img style="width: 50vw" src="https://wallpaperaccess.com/full/39607.jpg"/>
 
 
 [![-----------------------------------------------------](
