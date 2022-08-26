@@ -1,7 +1,5 @@
 ###  Hi , I'm Le Hoang Phu - A Web Developer and Mobile Developer
 
-/*<img style="width: 65vw" src="https://wallpaperaccess.com/full/39607.jpg"/>*/
-
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
