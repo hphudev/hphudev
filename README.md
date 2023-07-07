@@ -51,6 +51,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <p>
   <a target="_blank" href="www.linkedin.com/in/hphudev"><img src="https://img.shields.io/badge/-Le Hoang Phu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a target="_blank" href="mailto:lhphu9a1@gmail.com"><img src="https://img.shields.io/badge/-lhphu9a1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a target="_blank" href="mailto:hphudev.phuele@gmail.com"><img src="https://img.shields.io/badge/-hphudev.phule@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a target="_blank" href="https://www.facebook.com/odev.vn/"><img src="https://img.shields.io/badge/-Le Hoang Phu-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
