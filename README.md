@@ -5,7 +5,7 @@
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hphudev&layout=compact)       ![Stats](https://github-readme-stats.vercel.app/api/?username=hphudev&count_private=true&show_icons=true&include_all_commits=true&&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hphudev&layout=compact&langs_count=8)       ![Stats](https://github-readme-stats.vercel.app/api/?username=hphudev&count_private=true&show_icons=true&include_all_commits=true&&hide_border=true)
 
 
 [![-----------------------------------------------------](
